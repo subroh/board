@@ -1,6 +1,9 @@
 # アプリケーション概要
 PHPでデータベース接続をした簡易掲示板です。
 
+# ページURL
+https://serene-beach-08147.herokuapp.com/
+
 # 利用方法
 ![スクリーンショット (41)](https://user-images.githubusercontent.com/89728838/162612045-2e42393b-a90e-46d9-aa7a-259c7de3dc06.png)
 
